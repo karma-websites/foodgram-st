@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Овсяная каша на молоке",
+    "description": "Классический быстрый завтрак.",
+    "cooking_time": 15,
+    "image": "users/recipes/ovsyanka.png",
+    "ingredients": [
+      {"name": "овсяные хлопья", "measurement_unit": "г", "amount": 80},
+      {"name": "молоко", "measurement_unit": "мл", "amount": 250},
+      {"name": "соль", "measurement_unit": "щепотка", "amount": 1}
+    ]
+  },
+  {
+    "title": "Греческий салат",
+    "description": "Свежие овощи с брынзой и оливковым маслом.",
+    "cooking_time": 10,
+    "image": "users/recipes/grecheskiy_salat.jpg",
+    "ingredients": [
+      {"name": "Огурец", "measurement_unit": "шт", "amount": 1},
+      {"name": "Помидор", "measurement_unit": "шт", "amount": 2},
+      {"name": "Болгарский перец", "measurement_unit": "шт", "amount": 1},
+      {"name": "Брынза", "measurement_unit": "г", "amount": 70},
+      {"name": "Маслины", "measurement_unit": "г", "amount": 40},
+      {"name": "Оливковое масло", "measurement_unit": "ст. л.", "amount": 2}
+    ]
+  },
+  {
+    "title": "Блины",
+    "description": "Тонкие домашние блины на молоке — идеальны к чаю или с вареньем.",
+    "cooking_time": 30,
+    "image": "users/recipes/bliny.jpg",
+    "ingredients": [
+      {"name": "молоко", "measurement_unit": "мл", "amount": 500},
+      {"name": "яйцо куриное", "measurement_unit": "шт", "amount": 2},
+      {"name": "мука пшеничная", "measurement_unit": "г", "amount": 250},
+      {"name": "сахар", "measurement_unit": "ст. л.", "amount": 2},
+      {"name": "соль", "measurement_unit": "щепотка", "amount": 1},
+      {"name": "масло растительное", "measurement_unit": "ст. л.", "amount": 2}
+    ]
+  },
+  {
+    "title": "Брауни",
+    "description": "Шоколадный десерт с насыщенным вкусом и мягкой текстурой.",
+    "cooking_time": 40,
+    "image": "users/recipes/brownie.jpg",
+    "ingredients": [
+      {"name": "шоколад чёрный", "measurement_unit": "г", "amount": 150},
+      {"name": "масло сливочное", "measurement_unit": "г", "amount": 100},
+      {"name": "яйцо куриное", "measurement_unit": "шт", "amount": 2},
+      {"name": "сахар", "measurement_unit": "г", "amount": 150},
+      {"name": "мука пшеничная", "measurement_unit": "г", "amount": 100},
+      {"name": "какао-порошок", "measurement_unit": "ст. л.", "amount": 2}
+    ]
+  },
+  {
+    "title": "Борщ",
+    "description": "Традиционный украинский суп из свёклы, капусты и говядины.",
+    "cooking_time": 90,
+    "image": "users/recipes/borsch.jpg",
+    "ingredients": [
+      {"name": "говядина", "measurement_unit": "г", "amount": 400},
+      {"name": "картофель", "measurement_unit": "г", "amount": 300},
+      {"name": "морковь", "measurement_unit": "шт", "amount": 1},
+      {"name": "свекла", "measurement_unit": "шт", "amount": 1},
+      {"name": "капуста белокочанная", "measurement_unit": "г", "amount": 200},
+      {"name": "лук репчатый", "measurement_unit": "шт", "amount": 1},
+      {"name": "томатная паста", "measurement_unit": "ст. л.", "amount": 2},
+      {"name": "соль", "measurement_unit": "ч. л.", "amount": 1}
+    ]
+  },
+  {
+    "title": "Плов",
+    "description": "Ароматный плов с рисом, морковью и мясом.",
+    "cooking_time": 60,
+    "image": "users/recipes/plov.png",
+    "ingredients": [
+      {"name": "рис", "measurement_unit": "г", "amount": 300},
+      {"name": "мясо (свинина или говядина)", "measurement_unit": "г", "amount": 400},
+      {"name": "морковь", "measurement_unit": "г", "amount": 150},
+      {"name": "лук репчатый", "measurement_unit": "г", "amount": 100},
+      {"name": "чеснок", "measurement_unit": "зубчик", "amount": 3},
+      {"name": "масло растительное", "measurement_unit": "мл", "amount": 50},
+      {"name": "соль", "measurement_unit": "ч. л.", "amount": 1},
+      {"name": "зира", "measurement_unit": "ч. л.", "amount": 0.5}
+    ]
+  },
+  {
+    "title": "Паста карбонара",
+    "description": "Итальянская паста с беконом, сыром и сливочным соусом.",
+    "cooking_time": 20,
+    "image": "users/recipes/spagetti-karbonara2.jpg",
+    "ingredients": [
+      {"name": "спагетти", "measurement_unit": "г", "amount": 250},
+      {"name": "бекон", "measurement_unit": "г", "amount": 150},
+      {"name": "яйцо куриное", "measurement_unit": "шт", "amount": 2},
+      {"name": "сыр пармезан", "measurement_unit": "г", "amount": 50},
+      {"name": "сливки 20%", "measurement_unit": "мл", "amount": 100},
+      {"name": "перец чёрный молотый", "measurement_unit": "щепотка", "amount": 1},
+      {"name": "соль", "measurement_unit": "щепотка", "amount": 1}
+    ]
+  }
+]

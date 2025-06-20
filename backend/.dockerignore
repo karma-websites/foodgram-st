@@ -1,0 +1,6 @@
+.venv
+*.md
+.pytest*
+tests
+.dockerignore
+Dockerfile
