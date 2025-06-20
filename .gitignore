@@ -1,6 +1,11 @@
+# front
 frontend/node_modules
 infra/frontend/build
+
+# environment file
 .env
+
+db/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
